@@ -1,0 +1,12 @@
+.agregartexto::before {
+    content: "Pasa por encima";
+}
+
+.agregartexto:hover {
+    background-color: green;
+    color: white;
+}
+
+.agregartexto::before {
+    content: "¡Hecho!";
+}
